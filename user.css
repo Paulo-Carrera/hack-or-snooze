@@ -1,0 +1,50 @@
+/* Login and signup forms */
+
+.account-form button {
+  width: 4rem;
+  margin-left: 80px;
+}
+
+#signup-form button {
+  width: 8rem;
+}
+
+.account-forms-container {
+  padding-left: 20px;
+}
+
+
+/* User profile */
+
+.user-profile-box {
+  padding: 10px 20px 20px;
+  font-size: 0.9rem;
+}
+
+.user-profile-box > * {
+  margin: 10px 0;
+}
+
+#user-profile {
+  position: fixed;
+  top: 100px;
+  right: 500px;
+  z-index: 1000;
+}
+
+.user-profile-box {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.user-profile-box h4 {
+  margin-top: 0;
+}
+
+
+
+
+
+
